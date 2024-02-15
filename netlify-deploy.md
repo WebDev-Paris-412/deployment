@@ -2,19 +2,19 @@
 
 Before deploying, you'll need to have a new Database on Atlas.
 
-And before anything, when deploying, remember this: 
+And before anything, when deploying, remember this:
+
 ## Remember
 
 ## Your
 
 ## .env FILE
 
-- If you did not create an account on Atlas before, [follow those guidelines](https://github.com/Flow-Fly/webdev-161/blob/main/deploy-atlas.md).
+- If you did not create an account on Atlas before, [follow those guidelines](./mongodb.md).
 - If you already have an account, you need a new database.
   - Connect to your account, click on your project: ![](./images/first.bmp)
   - Click on new project ![](./images/second.bmp)
 - Follow the steps in the previous guidelines.
-
 
 ## Deploying your React frontend to Netlify
 
